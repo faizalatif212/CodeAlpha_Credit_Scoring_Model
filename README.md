@@ -1,10 +1,6 @@
 # CodeAlpha_Credit_Scoring_Model
 Task 1: Credit Scoring Model built during Machine Learning Internship at CodeAlpha
 
-# CodeAlpha Credit Scoring Model
-
-Task 1: Credit Scoring Model built during Machine Learning Internship at CodeAlpha
-
 ## 📌 Project Overview
 This project focuses on building a robust Credit Scoring Model to predict the creditworthiness of individuals. The primary objective is to classify historical customer data to determine the likelihood of default, helping financial institutions make data-driven lending decisions and minimize financial risk.
 
